@@ -9,3 +9,8 @@ Lack of immediate menu visibility can be frustrating for potential customers who
 ### Solution: 
 
 We need to make a menu that is suitable for a mobile device that is interactive and provides a better user experience that does not require the user to zoom in on the menu. This can be accomplished using different frameworks like React or Next.js. It could also be developed using HTML, CSS, and JavaScript to create a responsive interface. 
+
+### Technologies that can be used:
+Web development frameworks: React.js or Next.js for building a responsive and interactive front-end interface.  
+
+Backend technologies: Node.js or Python with frameworks like Express or Django for server-side logic.
