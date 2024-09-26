@@ -14,3 +14,7 @@ We need to make a menu that is suitable for a mobile device that is interactive 
 Web development frameworks: React.js or Next.js for building a responsive and interactive front-end interface.  
 
 Backend technologies: Node.js or Python with frameworks like Express or Django for server-side logic.
+
+Database management system: MySQL or MongoDB for storing menu items, customer information, and order details.
+
+Content Management System (CMS): WordPress or a headless CMS like Contentful for easy menu updates and content management
