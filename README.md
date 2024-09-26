@@ -21,7 +21,7 @@ that does not require the user to zoom in on the menu. This can be accomplished 
 React or Next.js. It could also be developed using HTML, CSS, and JavaScript to create a responsive interface. 
 ```
 
-### Technologies that can be used:
+### List of Technologies:
 ```
 1. Web development frameworks: React.js or Next.js for building a responsive and interactive front-end interface.  
 
